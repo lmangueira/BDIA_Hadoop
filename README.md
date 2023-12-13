@@ -21,6 +21,14 @@ Will create key-pair and copy to each machine, so _sshing_ will be easier
 
 Hadoop configuration files are in hadoop folder. Will be copied to each VM.
 
+## Run
+
+Script is ready to run hadoop on master and show Web Interfaces on ports 9087 and 8088  
+For accessing them, just type http://master_ip:9087 and http://master_ip:8088  
+
+*VM Master IP is 192.0.2.5, but you can change if you wish*
+
+
 ## Customization
 
 |   Value   |  Default Value  |

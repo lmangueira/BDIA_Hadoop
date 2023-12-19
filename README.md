@@ -17,6 +17,9 @@
 
 Clone repo and ``vagrant up``
 
+> [!CAUTION]
+> Beware of special characters on full path to Vagrantfile
+
 Will create key-pair and copy to each machine, so _sshing_ will be easier
 
 Hadoop configuration files are in hadoop folder. Will be copied to each VM.
